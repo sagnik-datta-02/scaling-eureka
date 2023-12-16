@@ -79,3 +79,4 @@ methods:
           attributes: [ mut ]
           seeds:
             mint: mint
+            

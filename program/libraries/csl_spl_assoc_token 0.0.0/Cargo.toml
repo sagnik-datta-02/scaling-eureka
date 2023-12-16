@@ -1,6 +1,5 @@
 # This file is auto-generated from the CIDL source.
 # Editing this file directly is not recommended as it may be overwritten.
-
 [package]
 name = "csl_spl_assoc_token"
 version = "0.0.0"

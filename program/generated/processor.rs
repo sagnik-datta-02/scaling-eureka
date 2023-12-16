@@ -1,6 +1,7 @@
 // This file is auto-generated from the CIDL source.
 // Editing this file directly is not recommended as it may be overwritten.
 
+
 use std::str::FromStr;
 use borsh::BorshSerialize;
 use solana_program::account_info::{AccountInfo, next_account_info, next_account_infos};

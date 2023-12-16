@@ -7,6 +7,7 @@ use solana_program::msg;
 use solana_program::program_error::{PrintProgramError, ProgramError};
 use thiserror::Error;
 
+
 #[derive(Error, FromPrimitive, Debug, Clone)]
 pub enum NftError {
     #[error("Invalid Instruction")]

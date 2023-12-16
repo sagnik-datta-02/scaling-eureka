@@ -6,6 +6,7 @@ use solana_program::program_error::ProgramError;
 use solana_program::pubkey::Pubkey;
 use crate::generated::errors::NftError;
 
+
 #[derive(BorshSerialize, Debug)]
 pub enum NftInstruction {
 /// Accounts:
