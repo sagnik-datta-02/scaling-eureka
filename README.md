@@ -1,4 +1,7 @@
 # Solana NFT Trial
+# Sagnik NFT
+Sagnik NFT is an NFT having rarity and gem type, color, and description.
+This can be used anywhere, Below are the Steps to use it.
 
 ### Build & Deploy
 - `cd program`
